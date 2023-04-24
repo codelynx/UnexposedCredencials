@@ -43,6 +43,8 @@ There is a property lis file `credentials.plist` in the directory, to make this 
 secret information as possible, but remember do not place large binary or large number of key and value pairs.  Try make it
 small as possible.
 
+<img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/65634/0ac7a1eb-65a8-4b7e-fb28-08979b597de9.png" width="432"/>
+
 Then you run this script.  This script reads `credentials.plist` and produce `Credentials.swift` which can be added to
 your Xcode project.
 
