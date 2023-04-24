@@ -1,8 +1,8 @@
 //
-//  SceneDelegate.swift
-//  UnexposedCredencials-ios
+//	SceneDelegate.swift
+//	UnexposedCredencials-ios
 //
-//  Created by Kaz Yoshikawa on 4/24/23.
+//	Created by Kaz Yoshikawa on 4/24/23.
 //
 
 import UIKit

@@ -26,6 +26,7 @@
 		CCA1BE2829F6AD3900E45CD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CCA1BE2A29F6AD3900E45CD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CCA1BE3029F7342C00E45CD4 /* Credentials.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Credentials.swift; path = .credentials/Credentials.swift; sourceTree = SOURCE_ROOT; };
+		CCA1BE3229F7365600E45CD4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 		CCA1BE0E29F6AD0A00E45CD4 = {
 			isa = PBXGroup;
 			children = (
+				CCA1BE3229F7365600E45CD4 /* README.md */,
 				CCA1BE1B29F6AD3800E45CD4 /* UnexposedCredencials-ios */,
 				CCA1BE1A29F6AD3800E45CD4 /* Products */,
 			);
